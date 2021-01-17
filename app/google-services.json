@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "423509078913",
+    "project_id": "waclone-89e5b",
+    "storage_bucket": "waclone-89e5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423509078913:android:3bce4e94d8b08204046e80",
+        "android_client_info": {
+          "package_name": "com.ziro.whatsappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423509078913-jp5vthgdvp5gjtl9kuk5peie4rs0b8k0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ziro.whatsappclone",
+            "certificate_hash": "7242392ba5aaf69d399df6ca23f8c4e770e0b2c2"
+          }
+        },
+        {
+          "client_id": "423509078913-oais2b4rmiump2m7drnmovuqm9tscdmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtTv8B8pTUTlNDjjp8RfKw1gGj9h723A4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423509078913-oais2b4rmiump2m7drnmovuqm9tscdmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
